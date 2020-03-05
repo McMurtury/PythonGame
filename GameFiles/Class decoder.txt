@@ -1,0 +1,13 @@
+Class decoder
+
+1 = Warrior
+2 = Thief
+3 = Scholar
+4 = Hunter
+5 = Priest
+
+6 = Woodsman
+7 = Magicweaver
+8 = Vitacere
+9 = Darkseeker
+10 = Lightseeker
